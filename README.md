@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Brito! 👋
+# Olá, eu sou o Rafa! 👋
 
 Um **Desenvolvedor Fullstack Java Senior** apaixonado por transformar regras de negócio complexas em arquiteturas limpas, eficientes e que (de preferência) não caiam na sexta-feira às 18h.
 
