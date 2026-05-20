@@ -5,6 +5,7 @@ Um **Desenvolvedor Fullstack Java Senior** apaixonado por transformar regras de 
 Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot** e **Vue.js**, construo o ciclo completo de aplicações modernas — integrando desde bancos relacionais robustos como **Oracle** até soluções NoSQL com **MongoDB**. Atualmente, estou focando meus superpoderes em **Arquitetura de Software** e na criação de soluções criativas para sistemas distribuídos de alta escalabilidade.
 
 ---
+
 ### 🧰 Caixa de Ferramentas
 
 <p align="left">
@@ -18,7 +19,8 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-#### 🧩 Além do código (Outras Skills):
+#### 🧩 Ambientes & Outras Skills:
+* **IDEs & Produtividade:** Eclipse, VS Code e **Cursor IA** (otimizando o fluxo de desenvolvimento com engenharia de prompts e IA).
 * **BPM (Business Process Management):** Porque antes de escrever a primeira linha de código, é preciso entender como o negócio respira.
 * **BI (Business Intelligence):** Transformando montanhas de dados relacionais em insights estratégicos reais.
 * **Padrões de Arquitetura:** Clean Architecture (Ports & Adapters), Design Orientado a Eventos (EDA) e resiliência ativa.
@@ -27,7 +29,7 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ### 🚀 Projeto em Destaque (Tech Challenge - Fase 3)
 * **[GestRest - Ecossistema Distribuído para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
-  Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência ativa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
+  Microservices desenvolvidos em Spring Boot 3 executados in containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência ativa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
 
 ---
 
@@ -37,12 +39,6 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ---
 
-### 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com/in/rafael-mendonça-de-brito-71350426" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 ### 📫 Conecte-se comigo
 <p align="left">
   <a href="https://linkedin.com/in/rafael-mendonça-de-brito-71350426" target="_blank">
