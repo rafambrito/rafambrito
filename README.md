@@ -48,7 +48,6 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   </a>
 </p>
 
-<p align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB6M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0MSZjdD1z/v06Y6S93Dvyw0/giphy.gif" width="30" style="vertical-align: middle; display: inline-block; margin-right: 10px;" /> 
-  <span style="vertical-align: middle;"><i>"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."</i> 🚀😉</span>
-</p>
+---
+
+![Sonic Pixelado](https://media.giphy.com/media/v06Y6S93Dvyw0/giphy.gif) _"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
