@@ -25,17 +25,17 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 * **IDEs & Produtividade:** Eclipse, VS Code e **Cursor IA** (otimizando o fluxo de desenvolvimento com engenharia de prompts e IA).
 * **BPM (Business Process Management):** Porque antes de escrever a primeira linha de código, é preciso entender como o negócio respira.
 * **BI (Business Intelligence):** Transformando montanhas de dados relacionais em insights estratégicos reais.
-* **Padrões de Arquitetura:** Clean Architecture (Ports & Adapters), Design Orientado a Eventos (EDA) e resiliência ativa.
+* **Padrões de Arquitetura:** Clean Architecture (Ports & Adapters), Design Orientado a Eventos (EDA) e resiliência activa.
 
 ---
 
 ### 🚀 Projeto em Destaque (Tech Challenge - Fase 3)
 * **[GestRest - Ecossistema Distribuído para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
-  Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência ativa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
+  Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência activa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Formação Académica
 * 🎓 **Pós-Graduação em Arquitetura e Desenvolvimento em JAVA** — FIAP
 * 🎓 **Bacharelado em Sistemas de Informação** — Centro Universitário Fundação Santo André (FSA)
 
@@ -48,4 +48,7 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB6M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0MSZjdD1z/v06Y6S93Dvyw0/giphy.gif" width="30" valign="middle" /> _"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
+<p align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB6M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0MSZjdD1z/v06Y6S93Dvyw0/giphy.gif" width="30" style="vertical-align: middle; display: inline-block; margin-right: 10px;" /> 
+  <span style="vertical-align: middle;"><i>"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."</i> 🚀😉</span>
+</p>
