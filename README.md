@@ -16,7 +16,9 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
 </p>
 
 #### 🧩 Ambientes & Outras Skills:
@@ -29,21 +31,8 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ### 🚀 Projeto em Destaque (Tech Challenge - Fase 3)
 * **[GestRest - Ecossistema Distribuído para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
-  Microservices desenvolvidos em Spring Boot 3 executados in containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência ativa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
+  Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência ativa (Retry, Circuit Breaker e Time Limiter via Resilience4j).
 
 ---
 
-### 🎓 Formação Acadêmica
-* 🎓 **Pós-Graduação em Arquitetura e Desenvolvimento em JAVA** — FIAP
-* 🎓 **Bacharelado em Sistemas de Informação** — Centro Universitário Fundação Santo André (FSA)
-
----
-
-### 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com/in/rafael-mendonça-de-brito-71350426" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-_"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
+### 🎓 Formação
