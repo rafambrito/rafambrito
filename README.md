@@ -35,4 +35,17 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ---
 
-### 🎓 Formação
+### 🎓 Formação Acadêmica
+* 🎓 **Pós-Graduação em Arquitetura e Desenvolvimento em JAVA** — FIAP
+* 🎓 **Bacharelado em Sistemas de Informação** — Centro Universitário Fundação Santo André (FSA)
+
+---
+
+### 📫 Conecte-se comigo
+<p align="left">
+  <a href="https://linkedin.com/in/rafael-mendonça-de-brito-71350426" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+_"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
