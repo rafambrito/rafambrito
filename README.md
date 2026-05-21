@@ -48,4 +48,4 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   </a>
 </p>
 
-_"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB6M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0M3BrbWF0dHBrbWZ0MSZjdD1z/v06Y6S93Dvyw0/giphy.gif" width="30" valign="middle" /> _"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
