@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafa! 👋
 
-Um **Desenvolvedor Fullstack Java Senior** apaixonado por transformar regras de negócio complexas em arquiteturas limpas, eficientes e que (de preferência) não caiam na sexta-feira às 18h.
+Um **Desenvolvedor Fullstack Java** apaixonado por transformar regras de negócio complexas em arquiteturas limpas, eficientes e que (de preferência) não caiam na sexta-feira às 18h.
 
 Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot** e **Vue.js**, construo o ciclo completo de aplicações modernas — integrando desde bancos relacionais robustos como **Oracle** até soluções NoSQL com **MongoDB**. Atualmente, estou focando meus superpoderes em **Arquitetura de Software** e na criação de soluções criativas para sistemas distribuídos de alta escalabilidade.
 
