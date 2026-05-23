@@ -30,7 +30,7 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 ---
 
 ### 🚀 Projeto em Destaque (Tech Challenge - Fase 3)
-* **[GestRest - Sistema para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
+* **[GestRest MS - Sistema para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
   Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência (Retry, Circuit Breaker e Time Limiter via Resilience4j).
 
 ---
