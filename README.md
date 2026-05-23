@@ -25,7 +25,7 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 * **IDEs & Produtividade:** Eclipse, VS Code e **Cursor IA** (otimizando o fluxo de desenvolvimento com engenharia de prompts e IA).
 * **BPM (Business Process Management):** Porque antes de escrever a primeira linha de código, é preciso entender como o negócio respira.
 * **BI (Business Intelligence):** Transformando montanhas de dados relacionais em insights estratégicos reais.
-* **Padrões de Arquitetura:** Clean Architecture (Ports & Adapters), Design Orientado a Eventos (EDA) e resiliência activa.
+* **Padrões de Arquitetura:** Clean Architecture, Hexagonal (Ports & Adapters), MVC e Microserviços.
 
 ---
 
