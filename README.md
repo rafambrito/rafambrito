@@ -21,6 +21,11 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafambrito&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafambrito&layout=compact&theme=radical" width="48%" />
+</p>
+
 #### 🧩 Ambientes & Outras Skills:
 * **IDEs & Produtividade:** Eclipse, VS Code e **Cursor IA** (otimizando o fluxo de desenvolvimento com engenharia de prompts e IA).
 * **BPM (Business Process Management):** Porque antes de escrever a primeira linha de código, é preciso entender como o negócio respira.
