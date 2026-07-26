@@ -11,7 +11,9 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -19,11 +21,6 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafambrito&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafambrito&layout=compact&theme=radical" width="48%" />
 </p>
 
 #### 🧩 Ambientes & Outras Skills:
@@ -56,4 +53,4 @@ A solução foi desenvolvida utilizando microsserviços, AWS Lambda e serviços 
 </p>
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Não+há+nada+tão+permanente...;quanto+uma+gambiarra+temporária...;que+funciona+em+produção!+🚀)
+_"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
