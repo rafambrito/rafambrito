@@ -29,9 +29,11 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ---
 
-### 🚀 Projeto em Destaque (Tech Challenge - Fase 3)
-* **[GestRest MS - Sistema para Gestão de Restaurantes](https://github.com/rafambrito/gestrest-ms)**
-  Microservices desenvolvidos em Spring Boot 3 executados em containers Docker, integrados de forma assíncrona com Apache Kafka e protegidos com estratégias de resiliência (Retry, Circuit Breaker e Time Limiter via Resilience4j).
+### 🚀 Projeto em Destaque (Tech Challenge FIAP - Fase 4)
+* **[Feedback Platform](https://github.com/rafambrito/feedback-platform-core)**
+Feedback Platform é uma plataforma serverless para coleta, processamento e análise de feedbacks acadêmicos.
+
+A solução foi desenvolvida utilizando microsserviços, AWS Lambda e serviços gerenciados da AWS para oferecer escalabilidade, baixo acoplamento e processamento assíncrono...
 
 ---
 
@@ -50,4 +52,4 @@ Com uma bagagem sólida no desenvolvimento fullstack com **Java**, **Spring Boot
 
 ---
 
-![Sonic Pixelado](https://media.giphy.com/media/v06Y6S93Dvyw0/giphy.gif) _"Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
+![Sonic Pixelado](https://media.giphy.com/media/ID_CORRETO/giphy.gif) "Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
