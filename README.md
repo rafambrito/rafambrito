@@ -51,5 +51,4 @@ A solução foi desenvolvida utilizando microsserviços, AWS Lambda e serviços 
 </p>
 
 ---
-
-![Sonic Pixelado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg4bGh4Y2NvMHdnbDF3Z2hkYjU5YXR2dHhydzBodXh0MXJ2emVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpCIhPH16jzsL3IzRp/giphy.gif) "Não há nada tão permanente quanto uma gambiarra temporária que funciona em produção."_ 🚀😉
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Não+há+nada+tão+permanente...;quanto+uma+gambiarra+temporária...;que+funciona+em+produção!+🚀)
